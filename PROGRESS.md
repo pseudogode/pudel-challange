@@ -1,6 +1,6 @@
 # Progress
 
-_Last updated: 2026-03-28 23:32 UTC_
+_Last updated: 2026-03-29 20:37 UTC_
 
 Rules for counting toward the 300 total:
 
@@ -12,7 +12,7 @@ Rules for counting toward the 300 total:
 
 `█░░░░░░░░░░░░░░░░░░░░░░░`
 
-**5 / 300**
+**10 / 300**
 
 ## Hard minimum
 
@@ -24,8 +24,8 @@ Rules for counting toward the 300 total:
 
 | Difficulty | Raw solved | Counted toward total |
 |---|---:|---:|
-| Easy | 5 | 5 |
-| Medium | 0 | 0 |
+| Easy | 9 | 9 |
+| Medium | 1 | 1 |
 | Hard | 0 | 0 |
-| **Total** | **5** | **5** |
+| **Total** | **10** | **10** |
 
